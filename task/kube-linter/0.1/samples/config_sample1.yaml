@@ -1,5 +1,0 @@
-checks:
-  doNotAutoAddDefaults: true
-  include:
-  - no-extensions-v1beta
-  - mismatching-selector
